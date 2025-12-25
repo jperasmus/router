@@ -14,5 +14,5 @@ export function createClientRpc(functionId: string) {
     url,
     serverFnMeta,
     [TSS_SERVER_FUNCTION]: true,
-  }) 
+  })
 }
